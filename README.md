@@ -1,4 +1,3 @@
 # bikeApp
 
-Primera app en Laravel, publicando en GitHub.
-Metiendo modificaciones.
+Primera app en Laravel, aprendiendo a publicar en GitHub.
